@@ -22,7 +22,7 @@ class FizzBuzzTest {
     static Stream<Arguments> fizzBuzzData () {
         return Stream.of(
                 Arguments.of("return the Number", 1, "1"),
-                Arguments.of("return Fizz", 3, "Fiz"),
+                Arguments.of("return Fizz", 3, "Fizz"),
                 Arguments.of("return Buzz", 5, "Buzz"),
                 Arguments.of("return FizzBuzz", 15, "FizzBuzz")
         );
