@@ -27,6 +27,6 @@ class FizzBuzzTest {
                 Arguments.of("return FizzBuzz", 15, "FizzBuzz")
         );
     }
-// Test2 Jenkins automatic build
+// Test3 Jenkins automatic build
 
 }
